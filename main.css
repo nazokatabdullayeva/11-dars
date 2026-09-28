@@ -1,0 +1,26 @@
+table {
+  border-collapse: collapse;
+}
+
+caption {
+  font-style: italic;
+}
+
+th, td {
+  border: 1px solid black;
+  text-align: center;
+}
+table {
+  border: 1px solid gray;
+  border-spacing: 3px;
+}
+
+caption {
+  margin-bottom: 5px;
+}
+
+th, td {
+  border: 1px solid gray;
+  padding: 8px 12px;
+  text-align: center;
+}
